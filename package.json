@@ -1,0 +1,17 @@
+{
+    "name": "update-ddns",
+    "version": "0.1.0",
+    "engines": {
+        "node": "20"
+    },
+    "author": {
+        "name": "chegde",
+        "email": "chegde@foxmail.com"
+    },
+    "type": "module",
+    "private": true,
+    "dependencies": {
+        "tencentcloud-sdk-nodejs-dnspod": "latest"
+    },
+    "devDependencies": {}
+}
